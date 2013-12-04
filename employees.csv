@@ -1,4 +1,4 @@
-Name,Title,Salary,Commission,Bonus,Monthly Quota
+name,title,salary,commission,bonus,monthly_quota
 Johnny Smith,developer,80000,0,0,0
 Jimmy McMahon,developer,85000,0,0,0
 Bob Lob,commission,50000,0.005,0,0

@@ -1,5 +1,6 @@
 class QuotaSalesPerson < SalesPerson
 
+  attr_accessor :name, :annual_base_salary, :bonus, :quota, :commission_paid, :gross_monthly_sales
   def initialize(name, annual_base_salary, bonus, quota)
     super(name, annual_base_salary)
     @bonus = bonus
